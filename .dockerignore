@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+.next
+.vinext
+dist
+.wrangler
+.env
+.env.*
+.DS_Store
+npm-debug.log*
